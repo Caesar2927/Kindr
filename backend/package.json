@@ -1,0 +1,28 @@
+{
+  "name": "kindr",
+  "version": "1.0.0",
+  "description": "Kindr is a smart community intelligence and volunteer matcher. It gathers scattered community information to clearly show the most urgent local needs. It also connects available volunteers with the specific tasks and areas where they are needed most.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keerthi29062005/Kindr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Keerthi29062005/Kindr/issues"
+  },
+  "homepage": "https://github.com/Keerthi29062005/Kindr#readme",
+  "dependencies": {
+    "axios": "^1.15.2",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
